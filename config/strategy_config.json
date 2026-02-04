@@ -1,0 +1,8 @@
+{
+  "initial_capital": 100000,
+  "strategy": {
+    "name": "moving_average",
+    "short_window": 5,
+    "long_window": 10
+  }
+}
